@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-g2vgcc.gasnatturalpago.top/sitemap.xml
